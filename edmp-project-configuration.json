@@ -1,16 +1,13 @@
 [{
   "gitProjectName": "edmp-sample-app",
   "gitRepositoryUrl": "https://github.com/codecentric/edmp-sample-app",
-  "rootWorkDirectory": "",
   "dockerPort": "10002:8081"
 }, {
   "gitProjectName": "edmp-sample-stream-sink",
   "gitRepositoryUrl": "https://github.com/codecentric/edmp-sample-stream-sink",
-  "rootWorkDirectory": "",
   "dockerPort": "10003:8080"
 }, {
   "gitProjectName": "edmp-sample-stream-source",
   "gitRepositoryUrl": "https://github.com/codecentric/edmp-sample-stream-source",
-  "rootWorkDirectory": "",
   "dockerPort": "10004:8080"
 }]
